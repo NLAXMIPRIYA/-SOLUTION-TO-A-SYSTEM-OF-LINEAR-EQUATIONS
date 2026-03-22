@@ -23,6 +23,26 @@ print(C)
 
 ```
 ## Output:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/4e02ff35-88a0-450f-82a4-3d378b400266" />
+
+
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
